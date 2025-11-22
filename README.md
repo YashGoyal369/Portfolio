@@ -1,4 +1,3 @@
-// ...existing code...
 # Yash Goyal — Portfolio
 
 Personal portfolio website showcasing projects, experience and contact info.
@@ -64,4 +63,3 @@ Build with `npm run build` and serve the `dist/` output with any static host (Ve
 ## License
 
 Include your preferred license here.
-// ...existing code...
